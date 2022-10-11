@@ -1,0 +1,8 @@
+#login
+
+
+UserName: //*[@id="user-name"]
+Password: //*[@id="password"]
+TombolLoginHomePage: //*[@id="login-button"]
+BurgerMenu: //*[@id="react-burger-menu-btn"]
+LogoutButton: //*[@id="logout_sidebar_link"]
